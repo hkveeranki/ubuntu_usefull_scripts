@@ -1,2 +1,2 @@
 dependencies
-xbacklight libnotify-dev notify-osd
+xbacklight libnotify-dev notify-osd espeak
